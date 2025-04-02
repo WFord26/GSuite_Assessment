@@ -16,7 +16,7 @@ Requirements:
 - pandas
 
 Usage:
-python Google_Workspace_Assessment.py 
+python google_workspace_assessment.py 
     --domain yourdomain.com 
     --service-account /path/to/service-account.json 
     --admin-email admin@yourdomain.com 
