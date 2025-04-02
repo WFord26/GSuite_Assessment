@@ -12,7 +12,7 @@ Requirements:
 - pandas
 
 Usage:
-python Google_User_Assessment.py 
+python google_user_assessment.py 
     --domain yourdomain.com 
     --service-account /path/to/service-account.json 
     --admin-email admin@yourdomain.com 
